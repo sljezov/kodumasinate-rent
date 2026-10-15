@@ -21,7 +21,7 @@ CASE tähendab tarkvaraarenduse tegevusi toetavaid arvutipõhiseid vahendeid. Se
 
 Valin diagrams.net-i, sest selles töös on tähtis arusaadav komponentide skeem ja võimalus seda kaitsmisel kohapeal muuta. PlantUML-i võrreldakse alternatiivina; selle kasutamist projektis ei väideta. GitHub Projects täiendab diagrammitööriista tööde juhtimisega, kuid ei asenda süsteemi modelleerimist.
 
-## Skeemi muutmise harjutus kaitsmiseks
+## Skeemi avamine ja muutmine
 
 1. Laadi repositooriumist `diagrams/arhitektuur.drawio` alla ja ava [diagrams.net](https://app.diagrams.net/). Vali seadmesse salvestamine ning **File → Open From → Device**.
 2. Vali „Äriloogikakiht” ja muuda selle teksti. Skeemi kastid, tekstid ja nooled peavad olema eraldi valitavad.
@@ -29,6 +29,6 @@ Valin diagrams.net-i, sest selles töös on tähtis arusaadav komponentide skeem
 4. Salvesta muudetud fail `.drawio` kujul ning ekspordi uus SVG-eelvaade sama nimega. Eelvaade ja lähtefail peavad kirjeldama sama arhitektuuri.
 5. Vaata Git diff üle ja tee sisuline väiketähtedega commit. Harjutusfaili ei pea põhilahendusse lisama, kui teavitusi MVP-sse ei võeta.
 
-Tahvli näitena ava US-03, selgita P0-prioriteeti ja samaaegse broneerimise kriteeriumi ning filtreeri Sprint 1 tööd. Kui näitad kaardi liigutamist demona, taasta kavandatud töö olek Todo; demo ei tähenda funktsiooni valmimist.
+Tahvli filtriga `Sprint:"Sprint 1"` saab eraldada esimese sprindi tööd. Kaardi olekut muudetakse siis, kui tegelik töö edeneb.
 
 Allikad: [draw.io failivormid](https://www.drawio.com/doc/faq/save-file-formats), [PlantUML-i komponendidiagrammid](https://plantuml.com/component-diagram), [GitHub Projectsi dokumentatsioon](https://docs.github.com/en/issues/planning-and-tracking-with-projects). Vahendite sobivuse hinnang on tehtud selle kodutöö vajaduste järgi.

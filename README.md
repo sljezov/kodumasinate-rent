@@ -19,7 +19,6 @@ Esimese versiooni näidisseadmed on tekstiilipesurid, aurupuhastid ja tolmuimeja
 | [Muudetav arhitektuuriskeem](diagrams/arhitektuur.drawio) | Avatav ja muudetav diagrams.net-is |
 | [CASE-vahendid](docs/05-case-vahendid.md) | Vahendite võrdlus ja skeemi muutmise juhis |
 | [Versiooniplaan](docs/06-versiooniplaan.md) | Git, SemVer ja väljalaskmine |
-| [Kaitsmise kontrollnimekiri](docs/07-kaitsmine.md) | Näidisdemo ja nõuete kaetus |
 
 ## Töö seis
 
@@ -27,7 +26,12 @@ See repositoorium sisaldab kavandamise materjale. Rakendust ei ole programmeerit
 
 ## GitHub
 
-Repositooriumi ja Projects-tahvli lingid lisatakse nende loomise järel. Kohalik diagramm tuleb avada diagrams.net-is käsuga **File → Open From → Device**.
+- [GitHubi repositoorium](https://github.com/sljezov/kodumasinate-rent)
+- [GitHub Projects: arendustööde tahvel](https://github.com/users/sljezov/projects/4)
+- [Kasutajalood GitHub Issuesis](https://github.com/sljezov/kodumasinate-rent/issues)
+- [Commit'ide ajalugu](https://github.com/sljezov/kodumasinate-rent/commits/main/)
+
+Repositoorium ja tahvel on avalikud. Kohalik diagramm tuleb avada diagrams.net-is käsuga **File → Open From → Device**.
 
 ## Eeldused
 
