@@ -1,25 +1,25 @@
 # Kasutajalood ja tööde nimekiri
 
-Tööde haldamise keskkond: [GitHub Projects – Kodumasinate rent](https://github.com/users/sljezov/projects/4). Iga allolev kasutajalugu luuakse eraldi GitHub issue'na ja lisatakse tahvlile. Kohalik nimekiri kirjeldab lähteplaani; edasise arenduse operatiivne seis asub tahvlil.
+Tööde haldamise keskkond: [GitHub Projects – Kodumasinate rent](https://github.com/users/sljezov/projects/4). Iga allolev kasutajalugu on eraldi GitHub issue ja lisatud tahvlile. [Sprint 1 vaade](https://github.com/users/sljezov/projects/4/views/2) kuvab ainult esimese sprindi viit tööd. Kohalik nimekiri kirjeldab lähteplaani; edasise arenduse operatiivne seis asub tahvlil.
 
 Prioriteedid: **P0** = MVP jaoks vältimatu; **P1** = oluline järgmine täiendus; **P2** = hilisem lisaväärtus. Sama prioriteediga tööde järjekord on allolevas tabelis. Punktid väljendavad suhtelist keerukust, mitte töötunde.
 
 | ID | Kasutajalugu | Prioriteet | Punktid | Planeeritud periood |
 |---|---|---|---:|---|
-| US-01 | Kliendina soovin näha renditavaid kodumasinaid ja päevahindu, et valida sobiv seade. | P0 | 3 | Sprint 1 |
-| US-02 | Kliendina soovin kontrollida mudeli saadavust valitud kuupäevadel ja rendihinda, et oma renti planeerida. | P0 | 5 | Sprint 1 |
-| US-03 | Kliendina soovin esitada vaba seadme broneerimistaotluse, et see periood endale reserveerida. | P0 | 8 | Sprint 1 |
-| US-04 | Kliendina soovin näha oma broneeringuid ja nende olekut, et teada, kas võin seadmele järele tulla. | P0 | 3 | Sprint 1 |
-| US-05 | Renditöötajana soovin taotlusi kinnitada või põhjendusega tagasi lükata, et hallata tegelikku väljastamist. | P0 | 3 | Sprint 2 kandidaat |
-| US-06 | Renditöötajana soovin registreerida seadme väljastamise ja kohapeal tasumise, et teada, kelle käes seade on. | P0 | 3 | Sprint 2 kandidaat |
-| US-07 | Renditöötajana soovin registreerida tagastamise ja seadme seisukorra, et lõpetada rent ja märgata hooldusvajadust. | P0 | 5 | Sprint 2 kandidaat |
-| US-08 | Kliendina soovin enne rendi alguskuupäeva broneeringu tühistada, et vabastada seadme teistele klientidele. | P0 | 3 | Sprint 2 kandidaat |
-| US-09 | Administraatorina soovin hallata seadmemudeleid, eksemplare ja päevahindu, et kataloog vastaks tegelikule inventarile. | P0 | 5 | Sprint 2 kandidaat |
-| US-10 | Renditöötajana soovin märkida eksemplari hooldusse või uuesti töökorda, et rikkis seadet ei saaks rentida. | P0 | 3 | Sprint 2 kandidaat |
-| US-11 | Kliendina soovin saada enne tagastamispäeva e-kirja meeldetuletuse, et seade õigel ajal tagastada. | P1 | 5 | Hiljem |
-| US-12 | Ettevõtte omanikuna soovin näha rendikäibe ja seadmete kasutuse aruannet, et kavandada seadmete juurdeostu. | P2 | 5 | Hiljem |
+| [US-01](https://github.com/sljezov/kodumasinate-rent/issues/1) | Kliendina soovin näha renditavaid kodumasinaid ja päevahindu, et valida sobiv seade. | P0 | 3 | Sprint 1 |
+| [US-02](https://github.com/sljezov/kodumasinate-rent/issues/2) | Kliendina soovin kontrollida mudeli saadavust valitud kuupäevadel ja rendihinda, et oma renti planeerida. | P0 | 5 | Sprint 1 |
+| [US-03](https://github.com/sljezov/kodumasinate-rent/issues/3) | Kliendina soovin esitada vaba seadme broneerimistaotluse, et see periood endale reserveerida. | P0 | 8 | Sprint 1 |
+| [US-04](https://github.com/sljezov/kodumasinate-rent/issues/4) | Kliendina soovin näha oma broneeringuid ja nende olekut, et teada, kas võin seadmele järele tulla. | P0 | 3 | Sprint 1 |
+| [US-05](https://github.com/sljezov/kodumasinate-rent/issues/5) | Renditöötajana soovin taotlusi kinnitada või põhjendusega tagasi lükata, et hallata tegelikku väljastamist. | P0 | 3 | Sprint 2 kandidaat |
+| [US-06](https://github.com/sljezov/kodumasinate-rent/issues/6) | Renditöötajana soovin registreerida seadme väljastamise ja kohapeal tasumise, et teada, kelle käes seade on. | P0 | 3 | Sprint 2 kandidaat |
+| [US-07](https://github.com/sljezov/kodumasinate-rent/issues/7) | Renditöötajana soovin registreerida tagastamise ja seadme seisukorra, et lõpetada rent ja märgata hooldusvajadust. | P0 | 5 | Sprint 2 kandidaat |
+| [US-08](https://github.com/sljezov/kodumasinate-rent/issues/8) | Kliendina soovin enne rendi alguskuupäeva broneeringu tühistada, et vabastada seadme teistele klientidele. | P0 | 3 | Sprint 2 kandidaat |
+| [US-09](https://github.com/sljezov/kodumasinate-rent/issues/9) | Administraatorina soovin hallata seadmemudeleid, eksemplare ja päevahindu, et kataloog vastaks tegelikule inventarile. | P0 | 5 | Sprint 2 kandidaat |
+| [US-10](https://github.com/sljezov/kodumasinate-rent/issues/10) | Renditöötajana soovin märkida eksemplari hooldusse või uuesti töökorda, et rikkis seadet ei saaks rentida. | P0 | 3 | Sprint 2 kandidaat |
+| [US-11](https://github.com/sljezov/kodumasinate-rent/issues/11) | Kliendina soovin saada enne tagastamispäeva e-kirja meeldetuletuse, et seade õigel ajal tagastada. | P1 | 5 | Hiljem |
+| [US-12](https://github.com/sljezov/kodumasinate-rent/issues/12) | Ettevõtte omanikuna soovin näha rendikäibe ja seadmete kasutuse aruannet, et kavandada seadmete juurdeostu. | P2 | 5 | Hiljem |
 
-**EN-01 – tehniline eeldus (P0, 5 punkti, Sprint 1):** arenduskeskkond, andmebaasimigratsioonid, testkeskkond ja autentimine/rollipõhine ligipääs. See on kasutajalugusid võimaldav tehniline töö, mitte kasutajaloo asemel arvestatav lugu. Eeldab testkontosid kliendile ja töötajale; paroolid on räsitud ning õigusi kontrollib server.
+**[EN-01](https://github.com/sljezov/kodumasinate-rent/issues/13) – tehniline eeldus (P0, 5 punkti, Sprint 1):** arenduskeskkond, andmebaasimigratsioonid, testkeskkond ja autentimine/rollipõhine ligipääs. See on kasutajalugusid võimaldav tehniline töö, mitte kasutajaloo asemel arvestatav lugu. Eeldab testkontosid kliendile ja töötajale; paroolid on räsitud ning õigusi kontrollib server.
 
 ## Vastuvõtukriteeriumid
 

@@ -28,10 +28,13 @@ See repositoorium sisaldab kavandamise materjale. Rakendust ei ole programmeerit
 
 - [GitHubi repositoorium](https://github.com/sljezov/kodumasinate-rent)
 - [GitHub Projects: arendustööde tahvel](https://github.com/users/sljezov/projects/4)
+- [Esimese sprindi vaade](https://github.com/users/sljezov/projects/4/views/2)
 - [Kasutajalood GitHub Issuesis](https://github.com/sljezov/kodumasinate-rent/issues)
 - [Commit'ide ajalugu](https://github.com/sljezov/kodumasinate-rent/commits/main/)
 
 Repositoorium ja tahvel on avalikud. Kohalik diagramm tuleb avada diagrams.net-is käsuga **File → Open From → Device**.
+
+[Ava arhitektuuriskeem otse diagrams.net-is](https://app.diagrams.net/?splash=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fsljezov%2Fkodumasinate-rent%2Fmain%2Fdiagrams%2Farhitektuur.drawio). Veebis avatud koopia muudatused tuleb eraldi faili salvestada ja GitHubi saata.
 
 ## Eeldused
 
