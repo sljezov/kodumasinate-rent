@@ -8,6 +8,14 @@ Asendada telefoni, e-kirjade ja tabelite abil peetav rendiarvestus ühe süsteem
 
 Esimese versiooni näidisseadmed on tekstiilipesurid, aurupuhastid ja tolmuimejad. Andmemudel võimaldab lisada ka teisi kodumasinaid.
 
+## Arhitektuuriskeem
+
+![Kodumasinate rendirakenduse arhitektuur](diagrams/arhitektuur.svg)
+
+[Arhitektuuri selgitus](docs/04-arhitektuur.md) · [Muudetav lähtefail](diagrams/arhitektuur.drawio) · [Ava diagrams.net-is](https://app.diagrams.net/?splash=0#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fsljezov%2Fkodumasinate-rent%2Fmain%2Fdiagrams%2Farhitektuur.drawio)
+
+SVG kuvab skeemi GitHubis. `.drawio` lähtefail võimaldab muuta skeemi komponente, tekste ja seoseid diagrams.net-is.
+
 ## Materjalid
 
 | Materjal | Sisu |
